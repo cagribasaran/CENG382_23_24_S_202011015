@@ -1,0 +1,25 @@
+{
+  "Files": [
+    {
+      "Id": "c:\\Users\\ÇAĞRI\\Desktop\\template\\CENG382_23_24_S_202011015\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\CENG382_23_24_S_202011015.bundle.scp.css",
+      "PackagePath": "staticwebassets\\CENG382_23_24_S_202011015.bundle.scp.css"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.CENG382_23_24_S_202011015.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.CENG382_23_24_S_202011015.props",
+      "PackagePath": "build\\CENG382_23_24_S_202011015.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.CENG382_23_24_S_202011015.props",
+      "PackagePath": "buildMultiTargeting\\CENG382_23_24_S_202011015.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.CENG382_23_24_S_202011015.props",
+      "PackagePath": "buildTransitive\\CENG382_23_24_S_202011015.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

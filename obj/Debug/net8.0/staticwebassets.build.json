@@ -1,0 +1,50 @@
+{
+  "Version": 1,
+  "Hash": "LXAYqp8aD5uc5mUKBMwAktFn2DMN9cGSEr6THteO78Y=",
+  "Source": "CENG382_23_24_S_202011015",
+  "BasePath": "_content/CENG382_23_24_S_202011015",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [
+    {
+      "Identity": "c:\\Users\\ÇAĞRI\\Desktop\\template\\CENG382_23_24_S_202011015\\obj\\Debug\\net8.0\\scopedcss\\bundle\\CENG382_23_24_S_202011015.styles.css",
+      "SourceId": "CENG382_23_24_S_202011015",
+      "SourceType": "Computed",
+      "ContentRoot": "c:\\Users\\ÇAĞRI\\Desktop\\template\\CENG382_23_24_S_202011015\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
+      "BasePath": "_content/CENG382_23_24_S_202011015",
+      "RelativePath": "CENG382_23_24_S_202011015.styles.css",
+      "AssetKind": "All",
+      "AssetMode": "CurrentProject",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ApplicationBundle",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "c:\\Users\\ÇAĞRI\\Desktop\\template\\CENG382_23_24_S_202011015\\obj\\Debug\\net8.0\\scopedcss\\bundle\\CENG382_23_24_S_202011015.styles.css"
+    },
+    {
+      "Identity": "c:\\Users\\ÇAĞRI\\Desktop\\template\\CENG382_23_24_S_202011015\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\CENG382_23_24_S_202011015.bundle.scp.css",
+      "SourceId": "CENG382_23_24_S_202011015",
+      "SourceType": "Computed",
+      "ContentRoot": "c:\\Users\\ÇAĞRI\\Desktop\\template\\CENG382_23_24_S_202011015\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
+      "BasePath": "_content/CENG382_23_24_S_202011015",
+      "RelativePath": "CENG382_23_24_S_202011015.bundle.scp.css",
+      "AssetKind": "All",
+      "AssetMode": "Reference",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ProjectBundle",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "c:\\Users\\ÇAĞRI\\Desktop\\template\\CENG382_23_24_S_202011015\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\CENG382_23_24_S_202011015.bundle.scp.css"
+    }
+  ]
+}
