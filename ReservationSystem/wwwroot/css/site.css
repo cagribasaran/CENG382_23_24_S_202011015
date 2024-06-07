@@ -1,0 +1,122 @@
+/* Genel Ayarlar */
+body {
+  background-image: url('/images/5.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
+  font-family: 'Arial', sans-serif;
+  color: #ffffff;
+  margin: 0;
+  padding: 0;
+}
+
+/* Başlıklar */
+h1, h2 {
+  color: #ffffff;
+  text-shadow: 3px 3px 6px rgba(0, 0, 0, 0.8);
+  margin-bottom: 20px;
+  font-size: 2em; /* Başlık boyutu */
+}
+
+/* Konteyner */
+.container {
+  background-color: rgba(0, 0, 0, 0.6); /* Yarı saydam siyah arka plan */
+  padding: 30px;
+  border-radius: 15px;
+  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.25);
+  margin-top: 40px;
+  backdrop-filter: blur(5px); /* Blur efekti ile modern bir dokunuş */
+}
+
+/* Butonlar */
+.btn-primary, .btn-danger, .btn-warning {
+  border: none;
+  padding: 10px 20px;
+  text-transform: uppercase;
+  transition: background-color 0.3s, transform 0.3s;
+  font-weight: bold;
+  letter-spacing: 1px; /* Butonlardaki harfleri biraz açarak okunabilirliği artır */
+}
+
+.btn-primary {
+  background-color: #007bff;
+}
+
+.btn-primary:hover {
+  background-color: #0056b3;
+  transform: translateY(-2px);
+}
+
+.btn-danger {
+  background-color: #dc3545;
+}
+
+.btn-danger:hover {
+  background-color: #c82333;
+  transform: translateY(-2px);
+}
+
+.btn-warning {
+  background-color: #ffc107;
+}
+
+.btn-warning:hover {
+  background-color: #e0a800;
+  transform: translateY(-2px);
+}
+
+/* Tablolar */
+.table-hover tbody tr:hover {
+  background-color: rgba(255, 255, 255, 0.2); /* Hover efekti */
+}
+
+.table thead {
+  background-color: #007bff;
+  color: white;
+}
+
+.table tbody tr:nth-child(even) {
+  background-color: rgba(255, 255, 255, 0.1);
+}
+
+/* Modal */
+.modal-content {
+  background-color: rgba(255, 255, 255, 0.95);
+  color: #333;
+  border-radius: 15px;
+  padding: 20px;
+  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.2);
+}
+
+.modal-header, .modal-footer {
+  border-bottom: 2px solid #dee2e6;
+  border-top: none;
+}
+
+/* Form Kontrolleri */
+.form-control {
+  background-color: transparent; /* Şeffaf arka plan */
+  color: #ffffff;
+  border: 2px solid rgba(255, 255, 255, 0.5);
+  border-radius: 8px;
+}
+
+.form-control:focus {
+  border-color: #007bff;
+  box-shadow: 0 0 10px rgba(0, 123, 255, 0.5);
+}
+
+.form-control::placeholder {
+  color: rgba(255, 255, 255, 0.75); /* Placeholder metin rengi */
+}
+
+/* Rozetler */
+.badge-warning {
+  background-color: #ffc107;
+  color: #212529;
+}
+
+.badge-success {
+  background-color: #28a745;
+  color: #ffffff;
+}
