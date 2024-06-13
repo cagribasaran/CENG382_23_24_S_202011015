@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ÇAĞRI\\Desktop\\template\\RazorPagesMovie\\RazorPagesMovie.csproj": {}
+    "C:\\Users\\user\\OneDrive\\Masaüstü\\382\\CENG382_23_24_S_202011015\\RazorPagesMovie\\RazorPagesMovie.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ÇAĞRI\\Desktop\\template\\RazorPagesMovie\\RazorPagesMovie.csproj": {
+    "C:\\Users\\user\\OneDrive\\Masaüstü\\382\\CENG382_23_24_S_202011015\\RazorPagesMovie\\RazorPagesMovie.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ÇAĞRI\\Desktop\\template\\RazorPagesMovie\\RazorPagesMovie.csproj",
+        "projectUniqueName": "C:\\Users\\user\\OneDrive\\Masaüstü\\382\\CENG382_23_24_S_202011015\\RazorPagesMovie\\RazorPagesMovie.csproj",
         "projectName": "RazorPagesMovie",
-        "projectPath": "C:\\Users\\ÇAĞRI\\Desktop\\template\\RazorPagesMovie\\RazorPagesMovie.csproj",
-        "packagesPath": "C:\\Users\\ÇAĞRI\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ÇAĞRI\\Desktop\\template\\RazorPagesMovie\\obj\\",
+        "projectPath": "C:\\Users\\user\\OneDrive\\Masaüstü\\382\\CENG382_23_24_S_202011015\\RazorPagesMovie\\RazorPagesMovie.csproj",
+        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\user\\OneDrive\\Masaüstü\\382\\CENG382_23_24_S_202011015\\RazorPagesMovie\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\ÇAĞRI\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -63,7 +63,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.201/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.301/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
