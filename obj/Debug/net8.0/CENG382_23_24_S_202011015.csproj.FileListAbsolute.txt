@@ -32,3 +32,14 @@ c:\Users\ÇAĞRI\Desktop\template\CENG382_23_24_S_202011015\obj\Debug\net8.0\ref
 c:\Users\ÇAĞRI\Desktop\template\CENG382_23_24_S_202011015\obj\Debug\net8.0\CENG382_23_24_S_202011015.pdb
 c:\Users\ÇAĞRI\Desktop\template\CENG382_23_24_S_202011015\obj\Debug\net8.0\CENG382_23_24_S_202011015.genruntimeconfig.cache
 c:\Users\ÇAĞRI\Desktop\template\CENG382_23_24_S_202011015\obj\Debug\net8.0\ref\CENG382_23_24_S_202011015.dll
+C:\Users\user\OneDrive\Masaüstü\382\CENG382_23_24_S_202011015\obj\Debug\net8.0\CENG382_23_24_S_202011015.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\OneDrive\Masaüstü\382\CENG382_23_24_S_202011015\obj\Debug\net8.0\CENG382_23_24_S_202011015.AssemblyInfoInputs.cache
+C:\Users\user\OneDrive\Masaüstü\382\CENG382_23_24_S_202011015\obj\Debug\net8.0\CENG382_23_24_S_202011015.AssemblyInfo.cs
+C:\Users\user\OneDrive\Masaüstü\382\CENG382_23_24_S_202011015\obj\Debug\net8.0\CENG382_23_24_S_202011015.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Masaüstü\382\CENG382_23_24_S_202011015\obj\Debug\net8.0\CENG382_23_24_S_202011015.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\user\OneDrive\Masaüstü\382\CENG382_23_24_S_202011015\obj\Debug\net8.0\CENG382_23_24_S_202011015.RazorAssemblyInfo.cache
+C:\Users\user\OneDrive\Masaüstü\382\CENG382_23_24_S_202011015\obj\Debug\net8.0\CENG382_23_24_S_202011015.RazorAssemblyInfo.cs
+C:\Users\user\OneDrive\Masaüstü\382\CENG382_23_24_S_202011015\obj\Debug\net8.0\CENG382_23_24_S_202011015.sourcelink.json
+C:\Users\user\OneDrive\Masaüstü\382\CENG382_23_24_S_202011015\obj\Debug\net8.0\CENG382_23_24_S_202011015.dll
+C:\Users\user\OneDrive\Masaüstü\382\CENG382_23_24_S_202011015\obj\Debug\net8.0\refint\CENG382_23_24_S_202011015.dll
+C:\Users\user\OneDrive\Masaüstü\382\CENG382_23_24_S_202011015\obj\Debug\net8.0\CENG382_23_24_S_202011015.pdb
